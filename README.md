@@ -7,9 +7,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-Scientific%20Computing-013243?logo=numpy)
 
-> *(Extra badges you requested)*  
-![npx](https://img.shields.io/badge/npx-Build%20Tool-black?logo=npm)
-![mongoose](https://img.shields.io/badge/Mongoose-ODM-7A1F5A?logo=mongoose)
 
 ---
 
